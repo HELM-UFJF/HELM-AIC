@@ -1,0 +1,12 @@
+{
+  "title": "HELM-AIC: multi-area interchange control in the holomorphic embedding load flow",
+  "description": "MATLAB code and data to reproduce the 4-bus, IEEE 118-bus, and ACTIVSg2000 studies, the benchmark against Newton-Raphson, and the comparison with Luo and Liu (2023).",
+  "upload_type": "software",
+  "license": "MIT",
+  "keywords": ["holomorphic embedding", "load flow", "area interchange control", "power systems", "MATLAB"],
+  "creators": [
+    {"name": "Lima, Glaucus R. S.", "affiliation": "Federal University of Juiz de Fora"},
+    {"name": "Oliveira, Edimar J.", "affiliation": "Federal University of Juiz de Fora"},
+    {"name": "Oliveira, Leonardo W.", "affiliation": "Federal University of Juiz de Fora"}
+  ]
+}
