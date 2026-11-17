@@ -1,0 +1,11 @@
+# Resultados gerados pelos programas principais
+Resultados_*.mat
+dados_*.dat
+
+# Series horarias do ACTIVSg2000 (geradas por Le_Series_ACTIVSg2000)
+Series_ACTIVSg2000.mat
+
+# Arquivos temporarios
+*.asv
+*~
+.DS_Store
