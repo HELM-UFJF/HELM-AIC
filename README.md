@@ -63,7 +63,7 @@ The code is released under the MIT License (see `LICENSE`). The test system data
 ## Citation
 
 If you use this code, please cite the paper above. The reference will be updated after publication. The code is archived on Zenodo:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24318006.svg)](https://doi.org/10.5281/zenodo.24318006)
+[![DOI](https://zenodo.org/badge/1461608142.svg)](https://doi.org/10.5281/zenodo.24318005)
 
 ## Contact
 
