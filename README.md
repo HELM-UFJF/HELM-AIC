@@ -1,4 +1,4 @@
-# HELM-AIC: Multi-area interchange control in the holomorphic load flow with generator and thermal limits
+# Multi-area interchange control in the holomorphic load flow with generator and thermal limits
 
 MATLAB code and data for the paper
 
