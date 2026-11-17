@@ -6,11 +6,11 @@ MATLAB code and data for the paper
 
 The code solves the load flow with multi-area Area Interchange Control (AIC) by the Holomorphic Embedding Load Flow Method (HELM) and by the Newton–Raphson (NR) method, with the same control equations and the same outer loop:
 
-- one interchange constraint and one adjustment per controlled area, embedded in the HELM recursion matrix;
-- regulation of the reference area by its own generating units;
-- reactive and active power limits of the generators, return to voltage control, and loss of controllability per area;
-- thermal limits by equation swapping: when a branch is overloaded, the interchange constraint of the area is replaced by the flow constraint of the branch, which yields the transfer limit and the binding branch in a single run;
-- evaluation of the power series by an incremental form of Wynn's epsilon algorithm.
+- One interchange constraint and one adjustment per controlled area, embedded in the HELM recursion matrix;
+- Regulation of the reference area by its own generating units;
+- Reactive and active power limits of the generators, return to voltage control, and loss of controllability per area;
+- Thermal limits by equation swapping: when a branch is overloaded, the interchange constraint of the area is replaced by the flow constraint of the branch, which yields the transfer limit and the binding branch in a single run;
+- Evaluation of the power series by an incremental form of Wynn's epsilon algorithm.
 
 ## Requirements
 
